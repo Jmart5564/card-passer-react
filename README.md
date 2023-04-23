@@ -1,5 +1,7 @@
 # React Half Baked Card Passer Challenge
 
+[MiroBoard](https://miro.com/app/board/uXjVPQ2bWOQ=/)
+
 ## Demo
 
 [Link to Demo](https://alchemy-card-passer.netlify.app/)
